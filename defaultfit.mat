@@ -1,0 +1,388 @@
+# Created by Octave 3.6.4, Tue Oct 08 14:22:35 2013 CEST <charles@macrocosmus>
+# name: defaultfit
+# type: struct
+# ndims: 2
+ 1 23
+# length: 2
+# name: name
+# type: cell
+# rows: 1
+# columns: 23
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+linear
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+affine
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 11
+affineshift
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+power
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+powerc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+exp
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+expc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+log
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+logc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+sin
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+sinc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+cos
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+cosc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+sinphi
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+sinphic
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+cngauss
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+cfgauss
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+ngauss
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+fgauss
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+gauss
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+expdiv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+explim
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+powershift
+
+
+
+
+
+# name: eq
+# type: cell
+# rows: 1
+# columns: 23
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+a*x
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+a*x+b
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+a*(x-b)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+a*x^n
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+a*x^n+c
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*exp(b*x)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+a*exp(b*x)+c
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*log(b*x)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*log(x)+b
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*sin(b*x)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+a*sin(b*x)+c
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*cos(b*x)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+a*cos(b*x)+c
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 14
+a*sin(b*x+phi)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+a*sin(b*x+phi)+c
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 44
+exp(-(x^2)/(2*sigma^2))/(2*pi*sigma^2)^(1/2)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 25
+a*exp(-(x^2)/(2*sigma^2))
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 50
+exp(-((x-x_0)^2)/(2*sigma^2))/(2*pi*sigma^2)^(1/2)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 31
+a*exp(-((x-x_0)^2)/(2*sigma^2))
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 31
+a*exp(-((x-x_0)^2)/(2*sigma^2))
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+a*exp(x/b)
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 15
+a*(1-exp(-x/b))
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+a*(x+b)^n
+
+
+
+
+
+
+
